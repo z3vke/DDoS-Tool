@@ -100,7 +100,7 @@ def main():
     ░        ░        ░ ░        ░            ░                          ░  ░ ░      ░  ░      ░     ░   
     
     developer: zevke
-    discord: zogj
+    discord: .2ub
    
     ''')
 
