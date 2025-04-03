@@ -85,7 +85,7 @@ def main():
     clear_screen()
 
     if platform.system() == 'Windows':
-        ctypes.windll.kernel32.SetConsoleTitleW("Shrek Multi Tools|Ddos Attacker")
+        ctypes.windll.kernel32.SetConsoleTitleW("Zevke|Ddos Attacker")
 
     print(f'''
     {Fore.BLUE}
